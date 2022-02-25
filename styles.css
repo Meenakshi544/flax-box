@@ -1,0 +1,50 @@
+.spaceArround{
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    
+}
+.line{
+    align-self: center;
+}
+p{
+    
+    color: aliceblue;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+.spaceEvenly{
+    display: flex;
+    justify-content: space-evenly;
+    border-style: solid;
+    
+}
+.line{
+    align-self: center;
+ 
+}
+p{
+    
+    color: aliceblue;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+.spaceBetween{
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    
+}
+.line{
+    align-self: center;
+}
+    
+p{
+    
+    color: aliceblue;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
